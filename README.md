@@ -1,5 +1,5 @@
 # Watch-IT concept
-The Starter Pack presents its concept for a space wearable...
+The Starter Pack presents its concept for a space wearable gadget...
 
 # Explanation
 
