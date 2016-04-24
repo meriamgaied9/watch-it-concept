@@ -63,16 +63,16 @@ updates and emergency report even when the astronaut is sleeping or unconscious.
     PROXIMITY SENSOR,
     RELATIVE HUMIDITY,
     TEMPERATURE,
-    GALVANIC SKIN RESPONSE
+    GALVANIC SKIN RESPONSE.
 
 - UI:
-    Debian OS (ported for mobile use)
-    Realtime system and environmental updates
-    Remote access
-    Screen mirroring function
-    Ready for NFC tag
-    Connected to the personal CO2 monitoring system
-    Connected to the MagIC vest
+    Debian OS (ported for mobile use),
+    Realtime system and environmental updates,
+    Remote access,
+    Screen mirroring function,
+    Ready for NFC tag,
+    Connected to the personal CO2 monitoring system,
+    Connected to the MagIC vest.
 
 ![img4](https://github.com/meriamgaied9/watch-it-concept/blob/master/img4.jpg)
 
