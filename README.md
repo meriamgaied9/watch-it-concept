@@ -1,5 +1,6 @@
 # Watch-IT concept
 The Starter Pack presents its concept for a space wearable gadget...
+![img3](https://github.com/meriamgaied9/watch-it-concept/blob/master/img3.jpg)
 
 # Explanation
 
@@ -17,6 +18,8 @@ changes in heart activity are related to a problem, such as poor sleep quality.
 
 Fabrics can be infused with technology to provide perspective on multiple investigations, 
 such as respiration, body acceleration, skin temperature, and more...
+
+![img1](https://github.com/meriamgaied9/watch-it-concept/blob/master/img1.jpg)
 
 
 Based on an already existing vest mesuring heart rate and breathing patterns during sleep, 
@@ -37,6 +40,7 @@ signalled by either the vest or the watch to provide immediate help.
 
 Via this app and watch it will be easier to connect to the data base , keeping up with ones vitals, 
 updates and emergency report even when the astronaut is sleeping or unconscious. 
+![img2](https://github.com/meriamgaied9/watch-it-concept/blob/master/img2.jpg)
 
 # Specifications:
 
@@ -69,5 +73,7 @@ updates and emergency report even when the astronaut is sleeping or unconscious.
     Ready for NFC tag
     Connected to the personal CO2 monitoring system
     Connected to the MagIC vest
+
+![img4](https://github.com/meriamgaied9/watch-it-concept/blob/master/img4.jpg)
 
 https://youtu.be/EjIZeLwuxdE
