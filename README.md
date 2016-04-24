@@ -22,7 +22,6 @@ such as respiration, body acceleration, skin temperature, and more...
 Based on an already existing vest mesuring heart rate and breathing patterns during sleep, 
 we decided to design an additional accessory that will provide the astronaut with a full check 
 up and  updates of health status.
-![img1](https://github.com/meriamgaied9/watch-it-concept/blob/master/Screenshot%20%2813%29.png)
 
 This smart watch will be equipped with several sensors that will provide detailed health status 
 and connect it with the vest as well as the ISS data base to permit immediate help in case of emergency.
