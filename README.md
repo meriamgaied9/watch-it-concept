@@ -30,10 +30,44 @@ Along this watch you will find the concept of a complementary app for direct acc
 The app will connect the device with the network and keep the astronaut updated and well informed of 
 the current environmental situation. 
 
+In addition, the device will be equiped with NFC to read out all information from an NFC Tag fixed to each ISS onboard system in case for a problem fix.
+
 It is also connected to the user’s medical files, records their vitals and reports any abrupt change 
 signalled by either the vest or the watch to provide immediate help.
 
 Via this app and watch it will be easier to connect to the data base , keeping up with ones vitals, 
 updates and emergency report even when the astronaut is sleeping or unconscious. 
+
+# Specifications:
+
+- Dimensions(mm): 100x70x7
+- Weight: 105g
+
+- Curved 4" touch panal
+- Wireless data tranfer and NFC
+- Wi-Fi
+- Camera
+
+- Sensors:
+    ACCELEROMETER
+    GRAVITY SENSOR
+    GYROSCOPE
+    AMBIANT LIGHT SENSOR
+    LINEAR ACCELERATION
+    THERMOMETERS
+    PRESSURE SENSOR
+    PROXIMITY SENSOR
+    RELATIVE HUMIDITY
+    TEMPERATURE
+    GALVANIC SKIN RESPONSE
+
+- UI:
+    Debian OS (ported for mobile use)
+    Realtime system and environmental updates
+    Remote access
+    Screen mirroring function
+    Ready for NFC tag
+    Connected to the personal CO2 monitoring system
+    Connected to the MagIC vest
 
 https://youtu.be/EjIZeLwuxdE
