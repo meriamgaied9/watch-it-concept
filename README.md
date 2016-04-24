@@ -35,3 +35,5 @@ signalled by either the vest or the watch to provide immediate help.
 
 Via this app and watch it will be easier to connect to the data base , keeping up with ones vitals, 
 updates and emergency report even when the astronaut is sleeping or unconscious. 
+
+https://youtu.be/EjIZeLwuxdE
