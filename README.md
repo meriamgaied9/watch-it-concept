@@ -45,7 +45,7 @@ updates and emergency report even when the astronaut is sleeping or unconscious.
 
 ![img5](https://github.com/meriamgaied9/watch-it-concept/blob/master/img5.png)
 ![img6](https://github.com/meriamgaied9/watch-it-concept/blob/master/img6.png)
-![img7](https://github.com/meriamgaied9/watch-it-concept/blob/master/img7.png)
+![img7](https://github.com/meriamgaied9/watch-it-concept/blob/master/img7.1.png)
 
 # Specifications:
 
