@@ -33,6 +33,8 @@ Along this watch you will find the concept of a complementary app for direct acc
 The app will connect the device with the network and keep the astronaut updated and well informed of 
 the current environmental situation. 
 
+![img2](https://github.com/meriamgaied9/watch-it-concept/blob/master/img2.jpg)
+
 In addition, the device will be equiped with NFC to read out all information from an NFC Tag fixed to each ISS onboard system in case for a problem fix.
 
 It is also connected to the user’s medical files, records their vitals and reports any abrupt change 
@@ -40,7 +42,10 @@ signalled by either the vest or the watch to provide immediate help.
 
 Via this app and watch it will be easier to connect to the data base , keeping up with ones vitals, 
 updates and emergency report even when the astronaut is sleeping or unconscious. 
-![img2](https://github.com/meriamgaied9/watch-it-concept/blob/master/img2.jpg)
+
+![img5](https://github.com/meriamgaied9/watch-it-concept/blob/master/img5.png)
+![img6](https://github.com/meriamgaied9/watch-it-concept/blob/master/img6.png)
+![img7](https://github.com/meriamgaied9/watch-it-concept/blob/master/img7.png)
 
 # Specifications:
 
